@@ -94,7 +94,8 @@ body {
     justify-content: center;
     align-items: center;
     border-bottom: 1px solid var(--dark-blue-line);
-    padding-bottom: 5px;
+    padding-bottom: 20px;
+    height: 20px;
 }
 
 .nft-price {
