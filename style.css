@@ -87,6 +87,7 @@ body {
     font-size: 1.125rem;
     color: var(--soft-blue);
     font-weight: 300;
+    margin: 0;
 }
 
 .nft-details {
@@ -94,8 +95,8 @@ body {
     justify-content: center;
     align-items: center;
     border-bottom: 1px solid var(--dark-blue-line);
-    padding-bottom: 20px;
-    height: 20px;
+    margin-top: 8px;
+    padding-bottom: 8px;
 }
 
 .nft-price {
